@@ -1,0 +1,11 @@
+{
+  "name": "STERNENRING",
+  "short_name": "STERNENRING",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171512",
+  "theme_color": "#171512",
+  "lang": "ja",
+  "orientation": "portrait"
+}
